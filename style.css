@@ -11,8 +11,8 @@ body{
 font-family: 'Roboto', sans-serif;
 }
 * {
-margin: 0px;
-padding: 5px;
+margin: 0;
+padding: 0;
 }
 i {
 margin-right: 10px;
