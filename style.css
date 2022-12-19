@@ -118,6 +118,9 @@ right: -25px;
 bottom: 0;
 left: -25px;
 }
+.wspace{
+  word-spacing: 10px;
+}
 
 
 @media(min-width: 992px){
