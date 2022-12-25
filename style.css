@@ -21,12 +21,11 @@ margin-right: 10px;
 .navbar-logo{
 padding: 15px;
 color: #fff;
-margin-top: 3px;
 }
 .navbar-mainbg{
 background-color: #5161ce;
 padding: 0px;
-margin-bottom: 10px;
+margin-top: 3px;
 border-radius: 30px;
 }
 #navbarSupportedContent{
