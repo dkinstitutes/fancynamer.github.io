@@ -125,6 +125,11 @@ left: -25px;
   margin: 5px;
 }
 
+.pspace{
+  text-align: justify;
+  margin: 5px;
+}
+
 
 @media(min-width: 992px){
 .navbar-expand-custom {
